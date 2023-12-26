@@ -1,0 +1,25 @@
+body {
+  height: 100vh;
+  background: rgb(184, 232, 239);
+}
+
+.link{
+  color: black;
+  background: gray;
+  width: 60px;
+  padding: 5px;
+  margin: 5px;
+  top: 200px;
+  position: relative;
+}
+
+.App{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.text-contact{
+  font-size: 20px;
+  font-weight: 600;
+}
